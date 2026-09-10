@@ -1,4 +1,4 @@
-markdown
+
 # Air Digit Recognition ✍️
 
 Write digits in thin air using just your index finger — no touchscreen, no mouse. A webcam tracks your finger, draws what you write, and a trained neural network reads it back to you in real time.
